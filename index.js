@@ -41,5 +41,5 @@ if(experiencia <= 1000){
 }else{
     nivelDoHeroi="Radiante"
 }
-console.log("Missão "+ i + " O Herói de nome: "+ nome + " com nova experiência: "+ experiencia + " está no nível " +nivelDoHeroi)
+console.log("Após a Missão de número "+ i + " O Herói de nome: "+ nome + " com nova experiência: "+ experiencia + " está no nível " +nivelDoHeroi)
 }
